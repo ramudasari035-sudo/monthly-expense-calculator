@@ -1,0 +1,8 @@
+{
+  "appId": "com.dasari.monthlyexpense",
+  "appName": "Monthly Expense Calculator",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
